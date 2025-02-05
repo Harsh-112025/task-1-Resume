@@ -1,4 +1,4 @@
-# Resume Website Documentation :memo:
+# Resume Website With CSS Documentation :
 
 This resume website is a well-structured digital profile designed to showcase professional experience, skills, and contact information. Below is a detailed breakdown with code examples to help understand the structure.
 
